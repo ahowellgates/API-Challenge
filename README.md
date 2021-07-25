@@ -1,5 +1,6 @@
-# API-Challenge
-GA Tech API Challenge
+**API Challenge**
+
+**GA Tech API Challenge**
 
 **Background**
 
